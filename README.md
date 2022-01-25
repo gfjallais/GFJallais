@@ -1,8 +1,6 @@
 # 👋 Hi, I’m @gfjallais
 
-- 🌟 I’m interested in start a carrer in computer science
-
-- 🐍 I’m currently learning Python
+- 🐍 Interested in Python, Data Science, ML and AI
 
 - 📚 I’m a freshman at UFMG (Universidade Federal de Minas Gerais)
 
