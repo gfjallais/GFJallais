@@ -19,10 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfjallais&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
-### I’ve learned so far: 
-<div> 
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/GFJallais/GFJallais/blob/output/github-contribution-grid-snake.svg)
  
