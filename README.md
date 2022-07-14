@@ -2,7 +2,7 @@
 
 - 🐍 Interested in Python, Data Science, ML and AI
 
-- 📚 I’m a freshman at UFMG (Universidade Federal de Minas Gerais)
+- 📚 I’m a sophomore at UFMG (Universidade Federal de Minas Gerais)
 
 - 👀 I’m looking to collaborate on any kind of projects
 
