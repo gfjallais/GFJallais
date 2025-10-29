@@ -1,53 +1,31 @@
-# 👋 Hey there, I’m Gabriel Fjallais  
+<div align="center">
 
-🎓 **Final-year Computer Science student at UFMG (Universidade Federal de Minas Gerais)**  
-💡 Passionate about **Artificial Intelligence**, **Machine Learning**, **High-Performance Computing (HPC)**, **Distributed Systems**, and all kinds of **low-level/system programming**.  
-🧠 Always curious about how things work under the hood — from GPUs to kernels to neural networks.  
+# Gabriel Jallais
 
----
+🎓 Undergraduate student at UFMG
 
-### 🚀 What I’m Into  
-- 🧩 **AI / ML Research** — exploring model optimization, distributed training, and efficient inference  
-- ⚙️ **Systems & HPC** — parallel programming, cluster computing, and performance tuning  
-- 🐍 **Python & C/C++** — my daily drivers for prototyping and system-level work  
-- 🌐 **Distributed Systems** — building scalable, fault-tolerant applications  
-- 🤓 And honestly... anything that pushes my brain to its limits  
+Software Engineer specializing in full stack development with Java and Spring Boot. Passionate about AI and Software Engineering.
+
 
 ---
 
-### 🤝 Looking to Collaborate On  
-Open-source or academic projects involving:  
-- AI/ML frameworks and tooling  
-- HPC workloads or distributed training pipelines  
-- Systems programming (C, Rust, CUDA, etc.)  
-
-If your project sounds challenging or nerdy — count me in!  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
 ---
 
-### 📫 How to Reach Me  
-<div>
-  <a href="mailto:gfjallais@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/GFJallais" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-jallais" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+### 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-jallais)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gfjallais@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GFJallais)
+
 </div>
-
----
-
-### 📊 GitHub Stats  
-<div>
-  <a href="https://github.com/GFJallais">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfjallais&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfjallais&layout=compact&langs_count=7&theme=material-palenight"/>
-  </a>
-</div>
-
----
-
-![Snake animation](https://github.com/GFJallais/GFJallais/blob/output/github-contribution-grid-snake.svg)
